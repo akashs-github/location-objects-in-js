@@ -10,3 +10,6 @@ function open_google(){
     window.location.assign("https://www.google.co.in/?hl=hi")
 }
 
+function open_youtube(){
+    window.location.assign("https://www.youtube.com/")
+}
